@@ -1,0 +1,1 @@
+sim não tem classe pronta, criar tudo do zero, manda os arquivos já noq devem ser por exemplo se for classe,interface,enum, manda as classes exceptions tb, tudo separadinho em cada arquivo.
